@@ -1,9 +1,7 @@
 # termbin-nc
 
-Upload command output to [termbin.com](https://termbin.com) \
-using \
-  
-[netcat](https://en.wikipedia.org/wiki/Netcat).
+Upload command output to [termbin.com paste service](https://termbin.com) \
+using [netcat tool](https://en.wikipedia.org/wiki/Netcat).
 
 `termbin-nc` reads data from standard input and prints the generated
 Termbin URL.
